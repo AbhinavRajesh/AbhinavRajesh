@@ -44,9 +44,9 @@ I'm **Abhinav**, I'm a CS student at School of Engineering, CUSAT. And I love to
 ### 📫 How to reach me:  
 
 <p align="center">
-  <a href="https://www.abhinavrajesh.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.abhinavrajesh.me-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/abhinav-rajesh-44b71b172/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhinav%20Rajesh-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://www.instagram.com/pv._abhinav_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-pv._abhinav_-blue?style=flat-square&logo=instagram"></a>
+  <a href="https://abhinavrajesh.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.abhinavrajesh.me-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://linkedin.com/in/abhinav-rajesh-44b71b172/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhinav%20Rajesh-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://instagram.com/pv._abhinav_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-pv._abhinav_-blue?style=flat-square&logo=instagram"></a>
   <a href="mailto:abhinavrajesh49@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-abhinavrajesh49@gmail.com-blue?style=flat-square&logo=gmail"></a>
  </p>
 

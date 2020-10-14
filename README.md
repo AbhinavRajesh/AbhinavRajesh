@@ -5,7 +5,7 @@ I'm **Abhinav**, I'm a CS student at School of Engineering, CUSAT. And I love to
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRajesh&theme=dracula&layout=compact" />
 </p>
 
-🌱 I’m currently learning ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+🌱 I’m currently learning ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=00599C)
 
 ### 💡 Some of my Projects
 

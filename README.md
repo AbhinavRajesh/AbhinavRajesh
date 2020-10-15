@@ -44,6 +44,9 @@ I'm **Abhinav**, I'm a CS student at School of Engineering, CUSAT. And I love to
 ### Weekly Work Breakdown
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
   
 ### 📫 How to reach me:  

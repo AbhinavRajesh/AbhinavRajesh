@@ -41,6 +41,11 @@ I'm **Abhinav**, I'm a CS student at School of Engineering, CUSAT. And I love to
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
+### Weekly Work Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
 ### 📫 How to reach me:  
 
 <p align="center">

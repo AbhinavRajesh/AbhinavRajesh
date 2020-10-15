@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm **Abhinav**, I'm a CS student at School of Engineering, CUSAT. And I love to Code!
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhinavRajesh&show_icons=true&theme=dracula&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=AbhinavRajesh&count_private=true&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRajesh&theme=dracula&layout=compact" />
 </p>
 

@@ -45,11 +45,11 @@ I'm **Abhinav**, I'm a CS student at School of Engineering, CUSAT. And I love to
 
 <!--START_SECTION:waka-->
 ```text
-Dart         4 hrs 18 mins   █████████████▒░░░░░░░░░░░   52.81 % 
-JavaScript   2 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-JSON         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-JSX          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-HTML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Dart         4 hrs 18 mins   █████████░░░░░░░░░░░░░░░░   36.48 % 
+Python       3 hrs 20 mins   ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+JavaScript   2 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+JSON         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Markdown     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 ```
 <!--END_SECTION:waka-->
   

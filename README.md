@@ -1,47 +1,27 @@
-### Hi there 👋
-I'm **Abhinav**, I'm a CS student at School of Engineering, CUSAT. And I love to Code!
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=AbhinavRajesh&count_private=true&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRajesh&theme=dracula&layout=compact" />
+<h1 align="center">Hi 👋, I'm Abhinav Rajesh</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhinavrajesh&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavrajesh" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavrajesh" alt="abhinavrajesh" /></a> </p>
+
+- 🌱 I’m currently learning **Flutter**
+
+- 👨‍💻 All of my projects are available at [https://abhinavrajesh.me](https://abhinavrajesh.me)
+
+- 💬 Ask me about **React, GSAP, Express**
+
+- 📫 How to reach me **abhinavrajesh49@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_abhinavrajesh_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_abhinavrajesh_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhinavrajesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhinavrajesh" height="30" width="40" /></a>
+<a href="https://instagram.com/pv._abhinav_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pv._abhinav_" height="30" width="40" /></a>
 </p>
 
-🌱 I’m currently learning ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=00599C)
-
-### 💡 Some of my Projects
-
-<p align="center">
-  <a href="https://github.com/AbhinavRajesh/Weather-PWA-App" target="_blank">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinavRajesh&repo=Weather-PWA-App&theme=dracula" />
-  </a>
-  <a href="https://github.com/AbhinavRajesh/covid-19-tracker-reactjs" target="_blank">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinavRajesh&repo=covid-19-tracker-reactjs&theme=dracula" />
-  </a>    
-</p>
-  
-### 🛠 Tech Stack
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
-### Weekly Work Breakdown
+<h3 align="left">Weekly Work Breakdown</h3>
 
 <!--START_SECTION:waka-->
 ```text
@@ -52,20 +32,23 @@ HTML         1 hr 1 min      ██▒░░░░░░░░░░░░░░
 JavaScript   59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 ```
 <!--END_SECTION:waka-->
-  
-### 📫 How to reach me:  
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <p align="center">
-  <a href="https://abhinavrajesh.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.abhinavrajesh.me-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://linkedin.com/in/abhinav-rajesh-44b71b172/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhinav%20Rajesh-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://instagram.com/pv._abhinav_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-pv._abhinav_-blue?style=flat-square&logo=instagram"></a>
-  <a href="mailto:abhinavrajesh49@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-abhinavrajesh49@gmail.com-blue?style=flat-square&logo=gmail"></a>
- </p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=AbhinavRajesh&count_private=true&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRajesh&theme=dracula&layout=compact" />
+</p>
 
-<!--
+<h3 align="left">💡 Some of my Projects</h3>
 
+<p align="center">
+  <a href="https://github.com/AbhinavRajesh/Weather-PWA-App" target="_blank">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinavRajesh&repo=Weather-PWA-App&theme=dracula" />
+  </a>
+  <a href="https://github.com/AbhinavRajesh/covid-19-tracker-reactjs" target="_blank">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinavRajesh&repo=covid-19-tracker-reactjs&theme=dracula" />
+  </a>    
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
--->

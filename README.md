@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhinavrajesh.me](https://abhinavrajesh.me)
 
-- 💬 Ask me about **React, GSAP, Express**
+- 💬 Ask me about **React, GSAP, Flask, Express**
 
 - 📫 How to reach me **abhinavrajesh49@gmail.com**
 

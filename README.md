@@ -51,6 +51,6 @@ Dart         14 mins         ▓░░░░░░░░░░░░░░░░
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinavRajesh&repo=covid-19-tracker-reactjs&theme=algolia" />
   </a>    
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavrajesh&theme=algolia" alt="abhinavrajesh" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavrajesh&theme=cobalt" alt="abhinavrajesh" /></p>
 
 

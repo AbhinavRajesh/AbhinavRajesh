@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://abhinavrajesh.me](https://abhinavrajesh.me)
+- 👨‍💻 All of my projects are available at [https://abhinavrajesh.xyz](https://abhinavrajesh.xyz)
 
 - 💬 Ask me about **React, GSAP, Flask, Express**
 

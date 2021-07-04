@@ -9,8 +9,10 @@
 - 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://abhinavrajesh.xyz](https://abhinavrajesh.xyz)
+ 
+- 👨‍💻 Blog at [https://blog.abhinavrajesh.xyz](https://blog.abhinavrajesh.xyz)
 
-- 💬 Ask me about **React, GSAP, Flask, Express**
+- 💬 Ask me about **React, NextJS, Flask, Express, TailwindCSS**
 
 - 📫 How to reach me **abhinavrajesh49@gmail.com**
 

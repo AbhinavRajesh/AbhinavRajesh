@@ -19,8 +19,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: Getting Started with NextJS using Typescript and TailwindCSS.](https://blog.abhinavrajesh.xyz/fetching-from-api-in-nextjs-using-getstaticprops-typescript)
-- [Part 1: Getting Started with NextJS using Typescript and TailwindCSS.](https://blog.abhinavrajesh.xyz/setting-up-nextjs-with-typescript-and-tailwindcss)
+- [Part 2: How to Build a NextJS App using Typescript and TailwindCSS: The Complete Guide](https://blog.abhinavrajesh.xyz/fetching-from-api-in-nextjs-using-getstaticprops-typescript)
+- [Part 1: How to Build a NextJS App using Typescript and TailwindCSS: The Complete Guide](https://blog.abhinavrajesh.xyz/setting-up-nextjs-with-typescript-and-tailwindcss)
 - [Adding SASS/SCSS to your React/NextJS Application](https://blog.abhinavrajesh.xyz/adding-sassscss-to-your-reactnextjs-application)
 <!-- BLOG-POST-LIST:END -->
 

@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Part 4: How to Build a NextJS App using Typescript and TailwindCSS: The Complete Guide](https://blog.abhinavrajesh.xyz/head-script-eslint-deploying-nextjs)
 - [Increase user engagement with Chatbotish.](https://blog.abhinavrajesh.xyz/introducing-chatbotish)
 - [Introducing Aura: See your mood in a whole new light.](https://blog.abhinavrajesh.xyz/introducing-aura-see-your-mood-in-a-whole-new-light)
 - [Part 3: How to Build a NextJS App using Typescript and TailwindCSS: The Complete Guide](https://blog.abhinavrajesh.xyz/dynamic-routing-and-api-endpoints-in-nextjs)
-- [Part 2: How to Build a NextJS App using Typescript and TailwindCSS: The Complete Guide](https://blog.abhinavrajesh.xyz/fetching-from-api-in-nextjs-using-getstaticprops-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

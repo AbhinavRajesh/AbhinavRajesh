@@ -57,10 +57,10 @@ Go           22 mins         ▓░░░░░░░░░░░░░░░░
 
 <p align="center">
   <a href="https://github.com/Nodet-org/Sahaay" target="_blank">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinavRajesh&repo=Weather-PWA-App&theme=algolia" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinavRajesh&repo=Aura&theme=algolia" />
   </a>
   <a href="https://github.com/AbhinavRajesh/Covistat" target="_blank">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinavRajesh&repo=covid-19-tracker-reactjs&theme=algolia" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhinavRajesh&repo=Chatbotish&theme=algolia" />
   </a>    
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavrajesh&theme=algolia" alt="abhinavrajesh" /></p>

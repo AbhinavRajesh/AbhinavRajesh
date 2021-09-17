@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Part 1: Complete guide on creating a Discord bot with TypeScript using discord.js](https://blog.abhinavrajesh.xyz/discord-bot-part-1)
 - [How I got into technical writing](https://blog.abhinavrajesh.xyz/how-i-got-into-technical-writing)
 - [Part 4: How to Build a NextJS App using Typescript and TailwindCSS: The Complete Guide](https://blog.abhinavrajesh.xyz/head-script-eslint-deploying-nextjs)
 - [Increase user engagement with Chatbotish.](https://blog.abhinavrajesh.xyz/introducing-chatbotish)
-- [Introducing Aura: See your mood in a whole new light.](https://blog.abhinavrajesh.xyz/introducing-aura-see-your-mood-in-a-whole-new-light)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

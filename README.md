@@ -37,11 +37,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   7 hrs 28 mins   ███████████████████████▒░   93.11 % 
-Assembly     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Markdown     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Python       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+TypeScript   5 hrs 19 mins   █████████████████████████   99.69 % 
 ```
 <!--END_SECTION:waka-->
 

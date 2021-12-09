@@ -37,9 +37,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Assembly     11 mins         ██████████░░░░░░░░░░░░░░░   39.57 % 
-Python       10 mins         █████████░░░░░░░░░░░░░░░░   35.96 % 
-TypeScript   6 mins          ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+TypeScript   6 mins          ████████████████████████▓   98.70 % 
 ```
 <!--END_SECTION:waka-->
 

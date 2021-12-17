@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://abhinavrajesh.xyz](https://abhinavrajesh.xyz)
+- 👨‍💻 All of my projects are available at [https://abhinavrajesh.com](https://abhinavrajesh.com)
 
-- 📝 I regularly write articles on [https://blog.abhinavrajesh.xyz](https://blog.abhinavrajesh.xyz)
+- 📝 I regularly write articles on [https://blog.abhinavrajesh.com](https://blog.abhinavrajesh.com)
 
 - 💬 Ask me about **React, NextJS, TailwindCSS, Express, Flask**
 

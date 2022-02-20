@@ -38,8 +38,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 8 hrs 21 mins
-
 JavaScript   5 hrs 26 mins   ████████████████▒░░░░░░░░   65.13 % 
 TypeScript   1 hr 23 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.73 % 
 Python       40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 

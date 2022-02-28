@@ -37,13 +37,16 @@
 <h3 align="left">Weekly Work Breakdown</h3>
 
 <!--START_SECTION:waka-->
+
 ```text
-Python       4 hrs 58 mins   ████████████▓░░░░░░░░░░░░   51.08 % 
-TypeScript   1 hr 59 mins    █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Bash         44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-C            41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-JSON         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+JavaScript   6 hrs 6 mins    █████████░░░░░░░░░░░░░░░░   36.62 %
+Python       4 hrs 58 mins   ███████▒░░░░░░░░░░░░░░░░░   29.81 %
+Solidity     2 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
+JSON         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Bash         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+C            41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>

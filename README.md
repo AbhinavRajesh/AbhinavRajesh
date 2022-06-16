@@ -31,7 +31,7 @@
 <a href="https://twitter.com/_abhinavrajesh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abhinavrajesh_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhinavrajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavrajesh" height="30" width="40" /></a>
 <a href="https://instagram.com/pv._abhinav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pv._abhinav_" height="30" width="40" /></a>
-<a href="/https://blog.abhinavrajesh.xyz/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.abhinavrajesh.xyz/rss.xml" height="30" width="40" /></a>
+<a href="https://blog.abhinavrajesh.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.abhinavrajesh.xyz/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Weekly Work Breakdown</h3>

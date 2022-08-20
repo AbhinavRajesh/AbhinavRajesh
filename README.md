@@ -39,11 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C++          51 mins         ████████████▓░░░░░░░░░░░░   50.47 %
-JavaScript   46 mins         ███████████▒░░░░░░░░░░░░░   45.80 %
-HTML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

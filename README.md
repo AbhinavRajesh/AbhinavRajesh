@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhinavrajesh.com](https://abhinavrajesh.com)
 
-- 📝 I regularly write articles on [https://blog.abhinavrajesh.com](https://blog.abhinavrajesh.com)
+- 📝 I sometimes write articles on [https://blog.abhinavrajesh.com](https://blog.abhinavrajesh.com)
 
 - 💬 Ask me about **React, NextJS, TailwindCSS, Express, Flask**
 

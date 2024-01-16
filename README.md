@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How I built CLI version of Wordle game](https://abhinavrajesh.hashnode.dev/wordle-cli)
-- [How hashnode helped me land an internship at Github!](https://abhinavrajesh.hashnode.dev/how-hashnode-helped-me-land-an-internship-at-github)
-- [Part 1: Complete guide on creating a Discord bot with TypeScript using discord.js](https://abhinavrajesh.hashnode.dev/discord-bot-part-1)
-- [How I got into technical writing](https://abhinavrajesh.hashnode.dev/how-i-got-into-technical-writing)
+- [How I built CLI version of Wordle game](https://blog.abhinavrajesh.com/wordle-cli)
+- [How hashnode helped me land an internship at Github!](https://blog.abhinavrajesh.com/how-hashnode-helped-me-land-an-internship-at-github)
+- [Part 1: Complete guide on creating a Discord bot with TypeScript using discord.js](https://blog.abhinavrajesh.com/discord-bot-part-1)
+- [How I got into technical writing](https://blog.abhinavrajesh.com/how-i-got-into-technical-writing)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
